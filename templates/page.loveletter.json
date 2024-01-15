@@ -1,0 +1,50 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "372d690c-6677-4bc3-a8d9-d21b0271ab98": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscris-toi à la Loveletter",
+            "heading_size": "h2"
+          }
+        },
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Pas de SPAM, que des infos utiles et de qualité 😏 (en revanche on n'exclut pas les emojis).<\/p><p>Si tu veux connaitre les prochaines collabs, les prochains revendeurs et les prochaines ventes alors sign IN !<\/p>"
+          }
+        },
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-0",
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-1",
+        "template--16131102638243__372d690c-6677-4bc3-a8d9-d21b0271ab98-16699096361452993d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "372d690c-6677-4bc3-a8d9-d21b0271ab98"
+  ]
+}

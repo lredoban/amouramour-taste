@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1649499660e1e13d69": {
+      "type": "multicolumn",
+      "blocks": {
+        "164949966071936454-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9387.jpg",
+            "title": "Julie",
+            "text": "<p>J'ai créé mon entreprise Amour Amour fin 2019 après plus de 2 ans de pratique personnelle afin de pouvoir faire de mon loisir, mon activité principale. Photographe de profession, j'envisage cette entreprise comme un studio créatif plus que seulement un atelier de céramique. Étant quelqu'un de créatif j'aime concrétiser la vision des personnes avec qui je travaille.  <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "164949966071936454-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8341.jpg",
+            "title": "Laure",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164949966071936454-0",
+        "164949966071936454-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649499660e1e13d69"
+  ]
+}

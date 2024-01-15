@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1649500005aef9036b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1649500005a790cbca-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Avec quelles terres sont produites les pièces?",
+            "icon": "fire",
+            "row_content": "<p>Je travaille principalement le grès chamotté, le grès lisse et le grès moucheté.<\/p>",
+            "page": ""
+          }
+        },
+        "1649500005a790cbca-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je faire une commande personnalisée?",
+            "icon": "fire",
+            "row_content": "<p>Pas pour le moment, je me concentre sur la collection permanente.<\/p>",
+            "page": ""
+          }
+        },
+        "1649500005a790cbca-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Combien de temps dois-je attendre pour recevoir ma commande?",
+            "icon": "fire",
+            "row_content": "<p>Les commandes sont envoyées le vendredi donc si vous avez commandé votre pièce le lundi, mardi ou mercredi de la semaine 1 alors elle partira le vendredi de la semaine 1, si vous avez commandé le jeudi ou le vendredi de la semaine 1 alors elle partira le vendredi de la semaine 2.<\/p><p>Si c’est une pré-commande, comptez 4\/5 semaines avant l’envoi de votre pièce. Délais à prendre en compte si vous souhaitez l’offrir à quelqu’un pour une date précise.<\/p>",
+            "page": ""
+          }
+        },
+        "1649500005a790cbca-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Proposes -tu des cours?",
+            "icon": "fire",
+            "row_content": "<p>Oui! <a href=\"\/collections\/les-cours\" target=\"_blank\" title=\"LES COURS\">Par ici<\/a> ! Il m’arrive aussi parfois de donner un cours intensif de tournage sur un weekend, chez Clay Atelier à Paris et chez Atelier Milo à Lyon.<\/p>",
+            "page": ""
+          }
+        },
+        "f8e85566-9344-4d21-9f63-0e8cc4598216": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ma commande est arrivée cassée, comment faire?",
+            "icon": "fire",
+            "row_content": "<p>Je fais de mon mieux pour protéger ces pièces mais il arrive parfois des accidents. Au quel cas n’hésitez pas à m’en faire part et nous trouverons une solution, soit un remboursement, soit un renvoi.<\/p>",
+            "page": ""
+          }
+        },
+        "bad582a1-4601-45d2-b7ab-4f2c572dd289": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ma commande ne correspond pas à mes attentes, que puis-je faire?",
+            "icon": "fire",
+            "row_content": "<p>Toutes les pièces que vous voyez sont faites avec amour dans mon atelier. Je mets une intention particulière pour être au plus proche de votre attente. Les photos et les explications sont les plus précises possible mais il se peut que cela ne vous plaise pas une fois en main. Au quel cas vous avez 14 jours pour me renvoyer votre pièce (à votre charge) si elle fait partie de ma collection et je procéderais à un remboursement. Si c’est une demande personnalisé, j’ai le regret de vous informer qu’aucun retour ne sera possible. Pour plus d'information, voir la <a href=\"\/pages\/politique-echange-remboursement\" title=\"Politique d'échange et de remboursement\">politique de remboursement.<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "98517dcb-095a-4279-ad98-a72aca4c13b9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Je suis un architecte, un hôtel ou un restaurant puis-je faire une commande personnalisée?",
+            "icon": "fire",
+            "row_content": "<p>Avec plaisir, n’hésitez pas à me <a href=\"\/pages\/contact\" title=\"Contact\">contacter<\/a> pour me parler de votre projet.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649500005a790cbca-0",
+        "1649500005a790cbca-1",
+        "1649500005a790cbca-2",
+        "1649500005a790cbca-3",
+        "f8e85566-9344-4d21-9f63-0e8cc4598216",
+        "bad582a1-4601-45d2-b7ab-4f2c572dd289",
+        "98517dcb-095a-4279-ad98-a72aca4c13b9"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/001856180039.jpg",
+        "image_ratio": "large",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649500005aef9036b"
+  ]
+}

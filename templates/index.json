@@ -6,18 +6,18 @@
         "03690f7c-f998-4f6d-8b6d-63345427d3f9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202312_AA_2EME0324_50ac1186-ea42-4014-a038-8c615d080ec0.jpg",
-            "heading": "Amour Amour vous souhaite une douce et belle année 2024 💛",
+            "image": "shopify:\/\/shop_images\/202401_AA_OUTLET_0851.jpg",
+            "heading": "OUTLET IS OUT !",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "BONNE ANNÉE",
-            "link": "shopify:\/\/collections\/shop",
+            "button_label": "💔 SHOP YOUR PIECE 💔",
+            "link": "shopify:\/\/collections\/outlet",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "background-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -188,6 +188,59 @@
         "padding_bottom": 32
       }
     },
+    "multicolumn_Trgky9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BnYrkL": {
+          "type": "column",
+          "settings": {
+            "title": "Manon M.",
+            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <\/strong><\/p><p>Si vous cherchez un endroit où vous pouvez allier pratique, bonne humeur, conseils, créativité et rencontres , vous serez au bon endroit. Julie & Laure vous accompagneront pas à pas avec patience et bienveillance dans vos projets. Au delà de l’apprentissage , ce sont les notions de partage et d’échange qui se ressentent ici. J’ai toujours hâte de me rendre aux cours , et de retrouver toute la team du Poterie Club !<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Myz898": {
+          "type": "column",
+          "settings": {
+            "title": "Emma P.",
+            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <\/strong><\/p><p>Essayé c’est l’adopté!<br\/>Amour amour est un endroit de découverte et de création.<br\/>Julie est patiente et passionnée, c’est un réel plaisir de manier la céramique à ses côtés.<br\/>Et si vous avez encore un doute, je ne peux que vous conseiller d’essayer ? (J’ai été la première étonnée de tant apprécier 🤫🤫)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pUmQkV": {
+          "type": "column",
+          "settings": {
+            "title": "Carole O.",
+            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <br\/><\/strong>J'ai eu la chance de participer aux cours de Julie et Laure! On peux faire toute sortes de projets céramique dans la bonne humeur et la bienveillance . Après cuisson on repart avec nos pièces et encore plus d'idées pour les futurs cours! Leurs créations sont également magnifique et en participant aux cours on se rends bien compte du travail derrière chaque pièces de céramique !!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BnYrkL",
+        "column_Myz898",
+        "column_pUmQkV"
+      ],
+      "settings": {
+        "title": "Vos avis ❤️",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -293,7 +346,7 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     }
@@ -302,6 +355,7 @@
     "dd0a9021-96c0-4a9b-9eec-c2d3d07caac5",
     "164950417822f6064e",
     "featured-product",
+    "multicolumn_Trgky9",
     "collection-list",
     "slideshow",
     "1663825061599cf188"

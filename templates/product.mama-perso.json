@@ -76,6 +76,12 @@
             "picker_type": "button"
           }
         },
+        "custom_liquid_UwGMWc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% assign product_form_id = 'product-form-' | append: section.id %}\n\n<fieldset class=\"product-form__input\">\n  <label class=\"form__label\" for=\"customisation\">Customisation<\/label>\n<div class=\"field\">\n  <input required class=\"field__input\" id=\"customisation\" type=\"text\" name=\"properties[Customisation]\"\nform=\"{{product_form_id}}\"\n>\n<\/div>\n<\/fieldset>"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -104,6 +110,7 @@
         "price",
         "description",
         "variant_picker",
+        "custom_liquid_UwGMWc",
         "quantity_selector",
         "buy_buttons",
         "918ec7f7-5338-4a3b-9674-3da92e2c2ced"

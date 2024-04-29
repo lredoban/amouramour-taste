@@ -2,45 +2,58 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "1713446509cec969b7": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_M7Ladg": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_M7Ladg"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
         "a0885fda-8238-4360-b678-96033400016f": {
           "type": "link_list",
           "settings": {
-            "heading": "🤘",
+            "heading": "",
             "menu": "footer"
-          }
-        },
-        "8c7dc3ea-c019-42a5-99a3-b0481957cf01": {
-          "type": "text",
-          "settings": {
-            "heading": "📍",
-            "subtext": "<p><strong>AMOUR AMOUR<\/strong><br\/>6 allée de Rivassol<br\/>63830 Nohanent<\/p><p>Ouvert du lundi au vendredi <a href=\"https:\/\/waitwhile.com\/locations\/amouramour\" target=\"_blank\"><strong>sur rendez-vous<\/strong><\/a><br\/>9h30-12h30 _ 13h30-17h30<\/p>"
           }
         }
       },
       "block_order": [
-        "a0885fda-8238-4360-b678-96033400016f",
-        "8c7dc3ea-c019-42a5-99a3-b0481957cf01"
+        "a0885fda-8238-4360-b678-96033400016f"
       ],
       "settings": {
         "color_scheme": "background-2",
         "newsletter_enable": true,
-        "newsletter_heading": "Inscrivez-vous à notre Loveletter.",
+        "newsletter_heading": "Soyez au courant de tout ! 🎀",
         "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": false,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "margin_top": 0,
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
   "order": [
+    "1713446509cec969b7",
     "footer"
   ]
 }

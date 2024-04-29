@@ -82,8 +82,8 @@
             "image_2": "shopify:\/\/shop_images\/fleche-vers-le-haut_3702a402-925d-44b5-a8c7-2a2183a64a91.png",
             "heading_2": "{{ product.metafields.custom.height | metafield_text }}",
             "icon_3": "washing",
-            "image_3": "shopify:\/\/shop_images\/fleches-h_f8a8476c-8f69-4136-bdf4-8f9bda147746.png",
-            "heading_3": "{{ product.metafields.custom.largeur | metafield_text }}"
+            "image_3": "shopify:\/\/shop_images\/verre-a-champagne_215a7a10-b4ed-4afa-b7b4-5b69f68215ee.png",
+            "heading_3": "{{ product.metafields.custom.volume | metafield_text }}"
           }
         },
         "variant_picker": {
@@ -209,7 +209,7 @@
       "settings": {
         "caption": "",
         "heading": "F.A.Q",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "section",
         "color_scheme": "accent-1",
@@ -218,7 +218,7 @@
         "image": "shopify:\/\/shop_images\/0223_SPRING12222.jpg",
         "image_ratio": "small",
         "desktop_layout": "image_second",
-        "padding_top": 24,
+        "padding_top": 16,
         "padding_bottom": 24
       }
     },

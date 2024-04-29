@@ -1,19 +1,29 @@
 {
   "sections": {
+    "custom_liquid_AdLQyT": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
+        "f76bcd72-0a22-4e75-9ec7-0066af14a4e6": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
             "blog_show_date": true,
             "blog_show_author": false
-          }
-        },
-        "f76bcd72-0a22-4e75-9ec7-0066af14a4e6": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "medium"
           }
         },
         "content": {
@@ -23,15 +33,57 @@
         }
       },
       "block_order": [
-        "title",
         "f76bcd72-0a22-4e75-9ec7-0066af14a4e6",
+        "title",
         "content"
       ],
       "settings": {
       }
+    },
+    "collage_MCBKyx": {
+      "type": "collage",
+      "blocks": {
+        "image_WcTnU9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/695B1359.jpg"
+          }
+        },
+        "product_7WgWFE": {
+          "type": "product",
+          "settings": {
+            "product": "lot-dassiettes-umi",
+            "second_image": false
+          }
+        },
+        "collection_YFnBhP": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop"
+          }
+        }
+      },
+      "block_order": [
+        "image_WcTnU9",
+        "product_7WgWFE",
+        "collection_YFnBhP"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "custom_liquid_AdLQyT",
+    "main",
+    "collage_MCBKyx"
   ]
 }

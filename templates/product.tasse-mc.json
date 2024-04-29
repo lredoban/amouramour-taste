@@ -53,12 +53,11 @@
           "settings": {
           }
         },
-        "inventory_paNNcP": {
-          "type": "inventory",
+        "subtitle": {
+          "type": "text",
           "settings": {
-            "text_style": "uppercase",
-            "inventory_threshold": 5,
-            "show_inventory_quantity": false
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "uppercase"
           }
         },
         "price": {
@@ -66,24 +65,49 @@
           "settings": {
           }
         },
+        "inventory_dE4gJt": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
           }
         },
-        "icon_with_text_jDKMC4": {
+        "icon_with_text_JPwUJR": {
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "ruler",
+            "icon_1": "heart",
             "image_1": "shopify:\/\/shop_images\/quarts-de-cercle-alt.png",
             "heading_1": "{{ product.metafields.custom.diam_tre_ | metafield_text }}",
-            "icon_2": "ruler",
+            "icon_2": "return",
             "image_2": "shopify:\/\/shop_images\/fleche-vers-le-haut_3702a402-925d-44b5-a8c7-2a2183a64a91.png",
             "heading_2": "{{ product.metafields.custom.height | metafield_text }}",
-            "icon_3": "washing",
-            "image_3": "shopify:\/\/shop_images\/fleches-h_f8a8476c-8f69-4136-bdf4-8f9bda147746.png",
-            "heading_3": "{{ product.metafields.custom.largeur | metafield_text }}"
+            "icon_3": "truck",
+            "image_3": "shopify:\/\/shop_images\/verre-a-champagne_215a7a10-b4ed-4afa-b7b4-5b69f68215ee.png",
+            "heading_3": "{{ product.metafields.custom.volume | metafield_text }}"
+          }
+        },
+        "collapsible_tab_BEKaTC": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Informations sur le produit",
+            "icon": "lightning_bolt",
+            "content": "<p>Chaque pièce est réalisée à la main dasn notre atelier près de Clermont-Ferrand dans le Puy-de-Dôme. Il se peut que certaines pièces aient quelques petits défauts qui les rendent uniques. Cela fait partie du processus et de l’histoire de la pièce.<\/p><p>La pièce est émaillée à l’intérieur et l’émail est alimentaire. Elle passe également au lave vaisselle et micro-onde. Nous préconisons toutefois un lavage à la main pour préserver votre pièce.<\/p>",
+            "page": ""
+          }
+        },
+        "text_DQAn7a": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "PERSONNALISATION",
+            "text_style": "subtitle"
           }
         },
         "variant_picker": {
@@ -92,17 +116,40 @@
             "picker_type": "button"
           }
         },
-        "918ec7f7-5338-4a3b-9674-3da92e2c2ced": {
-          "type": "collapsible_tab",
+        "custom_liquid_VFjJXy": {
+          "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "heading": "Informations sur les produits",
-            "icon": "lightning_bolt",
-            "content": "<p>Chaque pièce est réalisée à la main dasn notre atelier près de Clermont-Ferrand dans le Puy-de-Dôme. Il se peut que certaines pièces aient quelques petits défauts qui les rendent uniques. Cela fait partie du processus et de l’histoire de la pièce.<\/p><p>La pièce est émaillée à l’intérieur et l’émail est alimentaire. Elle passe également au lave vaisselle et micro-onde. Nous préconisons toutefois un lavage à la main pour préserver votre pièce.<\/p>",
-            "page": ""
+            "custom_liquid": "{% assign product_form_id = 'product-form-' | append: section.id %}\n\n<fieldset class=\"product-form__input\">\n  <label class=\"form__label\" for=\"customisation\"><b>💖 Prénom à gauche <\/b><\/label>\n<div class=\"field\">\n  <input required class=\"field__input\" id=\"customisation\" type=\"text\" name=\"properties[Prénom à gauche]\"\nform=\"{{product_form_id}}\"\n>\n<\/div>\n<\/fieldset>"
+          }
+        },
+        "custom_liquid_UwGMWc": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% assign product_form_id = 'product-form-' | append: section.id %}\n\n<fieldset class=\"product-form__input\">\n  <label class=\"form__label\" for=\"customisation\"><b>💖 Prénom à droite<\/b><\/label>\n<div class=\"field\">\n  <input required class=\"field__input\" id=\"customisation\" type=\"text\" name=\"properties[Prénom à droite]\"\nform=\"{{product_form_id}}\"\n>\n<\/div>\n<\/fieldset>"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "icon_with_text_ghxCcJ": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "heading_1": "",
+            "icon_2": "none",
+            "heading_2": "",
+            "icon_3": "truck",
+            "heading_3": "Sous 5 semaines"
+          }
+        },
+        "ga_addons_gift_wrap_add_ons_goodpa_D9igwQ": {
+          "type": "shopify:\/\/apps\/ga-addons-gift-wrap-add-ons\/blocks\/goodpa\/5999adcd-8395-46e2-b546-af1a82aaaf25",
+          "disabled": true,
           "settings": {
           }
         },
@@ -111,39 +158,24 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "ga_gift_wrap_product_addons_goodpa_AtJbVJ": {
-          "type": "shopify:\/\/apps\/ga-addons-gift-wrap-add-ons\/blocks\/goodpa\/5999adcd-8395-46e2-b546-af1a82aaaf25",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "complementary_nDiDj6": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "S'accorde parfaitement avec",
-            "make_collapsible_row": true,
-            "icon": "price_tag",
-            "product_list_limit": 3,
-            "products_per_page": 1,
-            "pagination_style": "dots",
-            "image_ratio": "square",
-            "enable_quick_add": false
-          }
         }
       },
       "block_order": [
         "title",
-        "inventory_paNNcP",
+        "subtitle",
         "price",
+        "inventory_dE4gJt",
         "description",
-        "icon_with_text_jDKMC4",
+        "icon_with_text_JPwUJR",
+        "collapsible_tab_BEKaTC",
+        "text_DQAn7a",
         "variant_picker",
-        "918ec7f7-5338-4a3b-9674-3da92e2c2ced",
+        "custom_liquid_VFjJXy",
+        "custom_liquid_UwGMWc",
         "quantity_selector",
-        "buy_buttons",
-        "ga_gift_wrap_product_addons_goodpa_AtJbVJ",
-        "complementary_nDiDj6"
+        "icon_with_text_ghxCcJ",
+        "ga_addons_gift_wrap_add_ons_goodpa_D9igwQ",
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -209,7 +241,7 @@
       "settings": {
         "caption": "",
         "heading": "F.A.Q",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "section",
         "color_scheme": "accent-1",
@@ -218,7 +250,7 @@
         "image": "shopify:\/\/shop_images\/0223_SPRING12222.jpg",
         "image_ratio": "small",
         "desktop_layout": "image_second",
-        "padding_top": 24,
+        "padding_top": 16,
         "padding_bottom": 24
       }
     },

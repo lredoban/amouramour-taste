@@ -1,122 +1,210 @@
 {
   "sections": {
+    "image_banner_3B9YwR": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_xmVnnN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_wa4G3h": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_BrEgdx": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Les assiettes UMI",
+            "button_link_1": "shopify:\/\/products\/lot-dassiettes-umi",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xmVnnN",
+        "text_wa4G3h",
+        "buttons_BrEgdx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/695B1341.jpg",
+        "image_2": "shopify:\/\/shop_images\/695B1358.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_cpQdze": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_c9CUyp": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are back!",
+            "heading_size": "h0"
+          }
+        },
+        "text_wdCUkT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_EaRzg7": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "AMOUR TOUJOURS",
+            "button_link_1": "shopify:\/\/products\/vase-amour-toujours-mathilde-cabanas",
+            "button_style_secondary_1": false,
+            "button_label_2": "TOUTES LES PIECES",
+            "button_link_2": "shopify:\/\/collections\/shop",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_c9CUyp",
+        "text_wdCUkT",
+        "buttons_EaRzg7"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AAxMC_2024_695B2474.jpg",
+        "image_2": "shopify:\/\/shop_images\/0025.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
     "dd0a9021-96c0-4a9b-9eec-c2d3d07caac5": {
       "type": "slideshow",
       "blocks": {
-        "03690f7c-f998-4f6d-8b6d-63345427d3f9": {
+        "slide_L98Cta": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202401_AA_OUTLET_0960.jpg",
-            "heading": "OUTLET IS OUT !",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "💔 SHOP YOUR PIECE 💔",
-            "link": "shopify:\/\/collections\/outlet",
+            "image": "shopify:\/\/shop_images\/AAxMC_2024_695B2474.jpg",
+            "heading": "Amour Toujours",
+            "heading_size": "h0",
+            "subheading": "En collaboration avec Mathilde Cabanas",
+            "button_label": "I WANT IT",
+            "link": "shopify:\/\/products\/vase-amour-toujours-mathilde-cabanas",
             "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "1aa78176-4b1d-4022-98e5-2633984689b7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202312_AA_2EME0251.jpg",
-            "heading": "❤️‍🔥 Achetez 4 tasses et obtenez -10% sur votre commande ❤️‍🔥",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "LES TASSES",
-            "link": "shopify:\/\/collections\/collection-permanente",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-right",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 20,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
-        "74697c74-56b2-481c-b173-5cbfba022b76": {
+        "slide_BgB66F": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/MCxAA_IMG_7940.jpg",
-            "heading": "LES TASSES MATHILDE CABANAS x AMOUR AMOUR",
+            "image": "shopify:\/\/shop_images\/AA_CHOOSE_695B1706.jpg",
+            "heading": "Rendez-vous sur CHOOSE !",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "💋 PAR ICI 🌷",
-            "link": "shopify:\/\/products\/tasse-amour-amour-x-mathilde-cabanas",
+            "subheading": "LE 10 AVRIL 2024 !",
+            "button_label": "",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "bbcad487-3190-4540-a673-6ac65935950e": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/L8873031.jpg",
-            "heading": "Faites personnaliser votre tasse Mama 🤰",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "❤️‍🔥 OUIIIII ❤️‍🔥",
-            "link": "shopify:\/\/products\/tasse-mama-personnalisable",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 20,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "03690f7c-f998-4f6d-8b6d-63345427d3f9",
-        "1aa78176-4b1d-4022-98e5-2633984689b7",
-        "74697c74-56b2-481c-b173-5cbfba022b76",
-        "bbcad487-3190-4540-a673-6ac65935950e"
+        "slide_L98Cta",
+        "slide_BgB66F"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
+        "slide_height": "large",
+        "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "Bienvenue chez Amour Amour"
+      }
+    },
+    "rich_text_Ekirrt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xKJFAG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p> 🌷 <a href=\"\/collections\/collection-permanente\" title=\"LES TASSES\">LES TASSES<\/a> ☕️ <a href=\"\/collections\/les-cours\" title=\"LES COURS\">LES COURS<\/a> 🐚 <a href=\"\/collections\/les-assiettes\" title=\"LES ASSIETTES\">A TABLE<\/a> 🍽️ <a href=\"\/collections\/cartes-cadeaux\" title=\"CARTES CADEAUX\">CARTES-CADEAUX<\/a> 🎏<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xKJFAG"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "164950417822f6064e": {
       "type": "featured-collection",
       "settings": {
-        "title": "TOUS LES OBJETS",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "shop",
-        "products_to_show": 4,
+        "collection": "pieces-tournees",
+        "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-1",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "featured-product": {
@@ -125,17 +213,12 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "a7b67416-8632-4dbc-9c72-564307dac67d": {
-          "type": "rating",
-          "disabled": true,
-          "settings": {
+            "heading_size": "h1"
           }
         },
         "text-subtitle": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "body"
@@ -152,8 +235,28 @@
             "picker_type": "button"
           }
         },
+        "custom_liquid_jmXpLf": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% assign product_form_id = 'product-form-' | append: section.id %}\n\n<fieldset class=\"product-form__input\">\n  <label class=\"form__label\" for=\"customisation\"><b>💖 Prénom à droite<\/b><\/label>\n<div class=\"field\">\n  <input required class=\"field__input\" id=\"customisation\" type=\"text\" name=\"properties[Prénom à droite]\"\nform=\"{{product_form_id}}\"\n>\n<\/div>\n<\/fieldset>"
+          }
+        },
+        "custom_liquid_UPNtUi": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% assign product_form_id = 'product-form-' | append: section.id %}\n\n<fieldset class=\"product-form__input\">\n  <label class=\"form__label\" for=\"customisation\"><b>💖 Prénom à gauche<\/b><\/label>\n<div class=\"field\">\n  <input required class=\"field__input\" id=\"customisation\" type=\"text\" name=\"properties[Prénom à gauche]\"\nform=\"{{product_form_id}}\"\n>\n<\/div>\n<\/fieldset>"
+          }
+        },
         "quantity-selector": {
           "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "ga_gift_wrap_product_addons_goodpa_EYGgXM": {
+          "type": "shopify:\/\/apps\/ga-addons-gift-wrap-add-ons\/blocks\/goodpa\/5999adcd-8395-46e2-b546-af1a82aaaf25",
+          "disabled": true,
           "settings": {
           }
         },
@@ -166,119 +269,115 @@
       },
       "block_order": [
         "title",
-        "a7b67416-8632-4dbc-9c72-564307dac67d",
         "text-subtitle",
         "price",
         "variant-picker",
+        "custom_liquid_jmXpLf",
+        "custom_liquid_UPNtUi",
         "quantity-selector",
+        "ga_gift_wrap_product_addons_goodpa_EYGgXM",
         "buy_button"
       ],
       "settings": {
-        "product": "tasse-mama-personnalisable",
-        "color_scheme": "background-2",
+        "product": "copie-de-tasse-cabanon",
+        "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": false,
-        "media_fit": "cover",
+        "media_fit": "contain",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 32,
-        "padding_bottom": 32
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
-    "multicolumn_Trgky9": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_BnYrkL": {
-          "type": "column",
-          "settings": {
-            "title": "Manon M.",
-            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <\/strong><\/p><p>Si vous cherchez un endroit où vous pouvez allier pratique, bonne humeur, conseils, créativité et rencontres , vous serez au bon endroit. Julie & Laure vous accompagneront pas à pas avec patience et bienveillance dans vos projets. Au delà de l’apprentissage , ce sont les notions de partage et d’échange qui se ressentent ici. J’ai toujours hâte de me rendre aux cours , et de retrouver toute la team du Poterie Club !<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Myz898": {
-          "type": "column",
-          "settings": {
-            "title": "Emma P.",
-            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <\/strong><\/p><p>Essayé c’est l’adopté!<br\/>Amour amour est un endroit de découverte et de création.<br\/>Julie est patiente et passionnée, c’est un réel plaisir de manier la céramique à ses côtés.<br\/>Et si vous avez encore un doute, je ne peux que vous conseiller d’essayer ? (J’ai été la première étonnée de tant apprécier 🤫🤫)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pUmQkV": {
-          "type": "column",
-          "settings": {
-            "title": "Carole O.",
-            "text": "<p><strong>⭐️⭐️⭐️⭐️⭐️\/5 <br\/><\/strong>J'ai eu la chance de participer aux cours de Julie et Laure! On peux faire toute sortes de projets céramique dans la bonne humeur et la bienveillance . Après cuisson on repart avec nos pièces et encore plus d'idées pour les futurs cours! Leurs créations sont également magnifique et en participant aux cours on se rends bien compte du travail derrière chaque pièces de céramique !!<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_BnYrkL",
-        "column_Myz898",
-        "column_pUmQkV"
-      ],
-      "settings": {
-        "title": "Vos avis ❤️",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection-list": {
+    "collection_list_cf6Thp": {
       "type": "collection-list",
       "blocks": {
-        "collection-2": {
+        "featured_collection_gTqwE9": {
           "type": "featured_collection",
           "settings": {
-            "collection": "collaborations"
+            "collection": "collection-permanente"
           }
         },
-        "e65b4a3b-2f4e-4a59-9426-8a23584aabb7": {
+        "featured_collection_Ht7iLJ": {
           "type": "featured_collection",
           "settings": {
             "collection": "les-cours"
           }
         },
-        "34ea4d51-10ae-4efa-85ce-78f7901121ad": {
+        "featured_collection_zy7x7F": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cartes-cadeaux"
+            "collection": "les-assiettes"
           }
         }
       },
       "block_order": [
-        "collection-2",
-        "e65b4a3b-2f4e-4a59-9426-8a23584aabb7",
-        "34ea4d51-10ae-4efa-85ce-78f7901121ad"
+        "featured_collection_gTqwE9",
+        "featured_collection_Ht7iLJ",
+        "featured_collection_zy7x7F"
       ],
       "settings": {
-        "title": "ON ADORE",
+        "title": "",
         "heading_size": "h1",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 32
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multirow_eWxdcb": {
+      "type": "multirow",
+      "blocks": {
+        "row_URMXEm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202312_AA_2EME0353_72fa6b51-e172-42f8-be50-1578df79f491.jpg",
+            "caption": "⭐️⭐️⭐️⭐️⭐️\/5 - Manon",
+            "heading": "Les cours du lundi",
+            "text": "<p>Si vous cherchez un endroit où vous pouvez allier pratique, bonne humeur, conseils, créativité et rencontres , vous serez au bon endroit. Julie & Laure vous accompagneront pas à pas avec patience et bienveillance dans vos projets. Au delà de l’apprentissage , ce sont les notions de partage et d’échange qui se ressentent ici. J’ai toujours hâte de me rendre aux cours , et de retrouver toute la team du Poterie Club !<\/p>",
+            "button_label": "RESERVER VOS COURS",
+            "button_link": "shopify:\/\/products\/cours-poterie-amour-amour"
+          }
+        },
+        "row_jTPbXy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/213B83BB-AD4B-4A66-9D83-401FFD5B7D0A.jpg",
+            "caption": "⭐️⭐️⭐️⭐️⭐️\/5 - ALEXANE M.",
+            "heading": "Les cours du mercredi",
+            "text": "<p>Créations magnifiques et atelier céramique au top 👌🏻<\/p>",
+            "button_label": "RESERVER VOS COURS",
+            "button_link": "shopify:\/\/products\/cours-de-poterie-mercredi-pm"
+          }
+        }
+      },
+      "block_order": [
+        "row_URMXEm",
+        "row_jTPbXy"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "accent-2",
+        "row_color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "slideshow": {
@@ -287,18 +386,18 @@
         "1b986aef-f770-4453-90f7-0553adee284e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC02487.jpg",
-            "heading": "YOUR COOL POTS DEALER",
-            "heading_size": "h2",
+            "image": "shopify:\/\/shop_images\/AA_CHOOSE_695B1837.jpg",
+            "heading": "COOL COLLABS",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "Allez jeter un oeil aux collaborations passées !",
             "link": "shopify:\/\/blogs\/les-collab",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 10,
-            "color_scheme": "inverse",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -309,55 +408,105 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "COOL COLLABS"
       }
     },
-    "1663825061599cf188": {
-      "type": "newsletter",
+    "featured_collection_EdBtyA": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pieces-modelees",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_URHEqh": {
+      "type": "multicolumn",
       "blocks": {
-        "1663825061e1b71f08-0": {
-          "type": "heading",
+        "column_7PTfTA": {
+          "type": "column",
           "settings": {
-            "heading": "💌 Inscrivez-vous à notre Loveletter  💌",
-            "heading_size": "h2"
+            "title": "⭐️⭐️⭐️⭐️⭐️\/5 - Manon",
+            "text": "<p>Julie & Laure vous accompagneront pas à pas avec patience et bienveillance dans vos projets. Au delà de l’apprentissage , ce sont les notions de partage et d’échange qui se ressentent ici. J’ai toujours hâte de me rendre aux cours , et de retrouver toute la team du Poterie Club !<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "1663825061e1b71f08-1": {
-          "type": "paragraph",
+        "column_m9fcxK": {
+          "type": "column",
           "settings": {
-            "text": "<p>Pas de SPAM, que des infos utiles et de qualité 😏 (en revanche on n'exclut pas les emojis).<\/p><p>Si tu veux connaitre les prochaines collabs, les prochains revendeurs et les prochaines ventes alors sign IN !<\/p>"
+            "title": "⭐️⭐️⭐️⭐️⭐️\/5 - Lauriane",
+            "text": "<p>L’univers d’amour amour est magnifique, et les cours de modelage une parenthèse enchantée dans ma semaine 🫶🏻<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "1663825061e1b71f08-2": {
-          "type": "email_form",
+        "column_XifrWf": {
+          "type": "column",
           "settings": {
+            "title": "⭐️⭐️⭐️⭐️⭐️\/5 - Catherine",
+            "text": "<p>Des céramiques originales et personnalisables. Des cours (petit groupe) assurés par Julie et Laure qui accompagnent chacun pour créer vaisselle ou objets déco dans un atelier très sympa et une super ambiance.😀<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "1663825061e1b71f08-0",
-        "1663825061e1b71f08-1",
-        "1663825061e1b71f08-2"
+        "column_7PTfTA",
+        "column_m9fcxK",
+        "column_XifrWf"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 52,
-        "padding_bottom": 52
+        "title": "Vos retours",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
   "order": [
+    "image_banner_3B9YwR",
+    "image_banner_cpQdze",
     "dd0a9021-96c0-4a9b-9eec-c2d3d07caac5",
+    "rich_text_Ekirrt",
     "164950417822f6064e",
     "featured-product",
-    "multicolumn_Trgky9",
-    "collection-list",
+    "collection_list_cf6Thp",
+    "multirow_eWxdcb",
     "slideshow",
-    "1663825061599cf188"
+    "featured_collection_EdBtyA",
+    "multicolumn_URHEqh"
   ]
 }

@@ -13,7 +13,7 @@
         "1649194197502177cc-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>SERVICE CLIENT<br\/><\/strong>hello@amouramour.co<\/p><p><strong>AMOUR AMOUR<\/strong><br\/>6 allée de Rivassol<br\/>63830 Nohanent<\/p><p>Ouvert du lundi au vendredi<br\/>9h30-12h30 _ 13h30-17h30<\/p>",
+            "text": "<p><strong>AMOUR AMOUR<\/strong><br\/>6 allée de Rivassol<br\/>63830 Nohanent<\/p><p><a href=\"https:\/\/waitwhile.com\/locations\/amouramour\/r\" target=\"_blank\" title=\"https:\/\/waitwhile.com\/locations\/amouramour\/r\"><strong>Ouvert du lundi au vendredi sur RDV uniquement<\/strong><\/a><br\/>9h30-12h30 _ 13h30-17h30<\/p>",
             "text_style": "body"
           }
         }
@@ -32,6 +32,48 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_mU9BzC": {
+      "type": "featured-product",
+      "blocks": {
+        "title_BpeTtr": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "variant_picker_4Ea7rq": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons_DgB7hm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "title_BpeTtr",
+        "variant_picker_4Ea7rq",
+        "buy_buttons_DgB7hm"
+      ],
+      "settings": {
+        "product": "rdv-a-latelier",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -57,6 +99,7 @@
   },
   "order": [
     "1649194197f95a9df6",
+    "featured_product_mU9BzC",
     "main",
     "form"
   ]

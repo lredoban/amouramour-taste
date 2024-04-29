@@ -109,6 +109,16 @@
         "id": "gradient_background_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_background_2.label"
+      },
+      {
+        "type": "header",
+        "content": "Couleurs Custom"
+      },
+      {
+        "type": "color",
+        "id": "custom_colors_link_background",
+        "default": "#ffbeca",
+        "label": "Couleur de fond des liens"
       }
     ]
   },
